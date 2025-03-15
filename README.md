@@ -22,4 +22,4 @@ https://coded-adil.github.io/tea-house-tailwind/
 
 # Challenges:
 
-The main challenge in this project was to make the review section. However, after spending some time learning and experimenting, I was able to make it work.
+The main challenge in this project was to make the review section. However, after spending some time learning and experimenting, I was able to make it work. It was really fun to learn about Tailwind CSS.
